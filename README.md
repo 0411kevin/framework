@@ -1,2 +1,4 @@
 # framework
-it's a framework for clone
+it's a framework for clone!
+
+Creating a new branch is quick. Hi kevin
